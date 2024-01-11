@@ -1,0 +1,2 @@
+# intellsqrFSD
+intellSQR Fullstack ssesment
